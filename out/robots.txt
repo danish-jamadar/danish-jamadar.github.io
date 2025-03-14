@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://augustinejoseph.github.io
+Sitemap: https://augustinejoseph.github.io/sitemap.xml

@@ -1,0 +1,20 @@
+[
+  {
+    "companyName": "Reckonsys Tech Labs",
+    "url": "http://www.reckonsys.com",
+    "startingYear": 2023,
+    "endingYear": null,
+    "currentCompany": true,
+    "logoUrl": "https://i.postimg.cc/yxNNFQBj/reckonsys-logo.webp",
+    "posistion": "Software Engineer"
+  },
+  {
+    "companyName": "TestYantra Software Solutions",
+    "url": "https://www.testyantra.com/",
+    "startingYear": 2023,
+    "endingYear": 2023,
+    "currentCompany": false,
+    "logoUrl": "https://www.testyantra.com/sites/default/files/tylog1.png",
+    "posistion": "Associate Software Engineer"
+  }
+]
