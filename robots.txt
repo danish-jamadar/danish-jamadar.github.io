@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://danish-jamadar.github.io
+Sitemap: https://danish-jamadar.github.io/sitemap.xml
