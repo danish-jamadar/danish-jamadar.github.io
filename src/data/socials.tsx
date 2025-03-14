@@ -10,7 +10,7 @@ import {
 export const SOCIALS = [
   {
     label: "GitHub",
-    href: "https://github.com/Danish2099",
+    href: "https://github.com/danish-jamadar",
     icon: GitHubIcon,
   },
   {
@@ -20,7 +20,7 @@ export const SOCIALS = [
   },
   // {
   //   label: "Medium",
-  //   href: "https://augustinejoseph.medium.com/",
+  //   href: "https://danish-jamadar.medium.com/",
   //   icon: MediumIcon,
   // },
   {

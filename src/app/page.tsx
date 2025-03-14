@@ -20,7 +20,6 @@ import { DownloadIcon } from "@/components/icons";
 import { Divider } from "@/components/divider";
 import { Metadata } from "next";
 import { siteMetadata } from "@/data/siteMetadata";
-import  Profile from "../../Profile.jpg"
 
 export default async function Home() {
   const allMediumArticles = await fetchArticles();
@@ -33,8 +32,8 @@ export default async function Home() {
   return (
     <section>
       <Image
-        src={Profile}
-        width={120}
+        src={LINKS.PROFILE}
+        width={100}
         height={100}
         alt="avatar"
         className="mb-5 cursor-pointer rounded-full"
@@ -117,7 +116,7 @@ export default async function Home() {
 
       <Divider />
       {/* MEDIUM */}
-      {/* {!isEmpty(mediumArticles) && (
+      {!isEmpty(mediumArticles) && (
         <>
           <div>
             <Link href={LINKS.BLOG_SECTION}>
@@ -150,7 +149,7 @@ export default async function Home() {
           </Link>
           <Divider />{" "}
         </>
-      )} */}
+      )}
 
       {!isEmpty(projects) && (
         <>

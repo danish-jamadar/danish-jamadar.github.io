@@ -10,7 +10,7 @@ export function Footer() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Augustine Joseph.
+          Danish Jamadar
         </a>
       </p>
     </footer>

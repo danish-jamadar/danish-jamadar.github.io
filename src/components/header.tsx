@@ -12,9 +12,9 @@ const navItems = {
   "/": {
     name: "Home",
   },
-  // [LINKS.BLOG_SECTION]: {
-  //   name: "Blog",
-  // },
+  [LINKS.BLOG_SECTION]: {
+    name: "Blog",
+  },
   [LINKS.PROJECTS_SECTION]: {
     name: "Projects",
   },
